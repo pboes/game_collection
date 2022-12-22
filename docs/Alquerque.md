@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Alquerque"
 permalink: /alquerque
+---
 
 # Description
 
