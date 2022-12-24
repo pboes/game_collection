@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "English Draughts"
-permalink: /english_draughts
+permalink: /checkerboard/english_draughts
 ---
 # Description
 

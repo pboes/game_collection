@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Alquerque"
-permalink: /alquerque
+permalink: alquerque/alquerque
 ---
 
 # Description
