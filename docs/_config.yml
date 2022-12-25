@@ -26,10 +26,17 @@ url: "https://pboes.github.io" # the base hostname & protocol for your site, e.g
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
+collections:
+  checkerboardgames:
+      label: "Games for checkerboard"
+      output: true
+  alquerqueboardgames:
+      label: "Games for alquerque board"
+      output: true
 
 # Build settings
 remote_theme:  riggraz/no-style-please  # remote_theme: pages-themes/cayman@v0.2.0
